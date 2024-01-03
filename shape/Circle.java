@@ -8,15 +8,17 @@
 public class Circle implements Shape
 {
   private int radius;
+  private int sidelength;
   private String color;
 
   /**
    * Constructor for objects of class Circle
    */
-  public Circle(int radius, String color)
+  public Circle(int radius, String color, int sidelength)
   {
     this.radius = radius;
     this.color = color;
+    this.sidelength = sidelength;
   }
 
   /**

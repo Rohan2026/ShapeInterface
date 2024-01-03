@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Dodecagon
+comment0.text=\n\ Write\ a\ description\ of\ class\ Dodecagon\ here.\n\ Its\ got\ 12\ sides\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=color\ sidelength
+comment1.target=Dodecagon(java.lang.String,\ int)
+comment2.params=
+comment2.target=double\ getArea()
+comment2.text=\n\ Computes\ the\ area\ of\ the\ shape\n\ \n\ @return\ \ \ \ The\ computed\ area\n
+comment3.params=
+comment3.target=double\ getPerimeter()
+comment3.text=\n\ Computes\ the\ perimeter\ of\ the\ shape\n\ \n\ @return\ \ \ \ The\ computed\ perimeter\n
+comment4.params=
+comment4.target=java.lang.String\ getColor()
+comment4.text=\n\ Gets\ the\ shape's\ color\n\ \n\ @return\ \ \ \ The\ color\n
+numComments=5
